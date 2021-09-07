@@ -1,4 +1,4 @@
-# CDT
+# CDT: Health Data Science
 Mini-projects completed as part of the CDT Health Data Science first year DPhil course:
 
 - Deep learning predictive task on open medical dataset
