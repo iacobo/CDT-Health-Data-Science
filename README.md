@@ -10,4 +10,5 @@ Mini-projects completed as part of the CDT Health Data Science first year DPhil 
 
 ---
 
-[![Oxford HDS](https://upload.wikimedia.org/wikipedia/en/a/a1/Big_Data_Institute_logo.jpg)](https://www.bdi.ox.ac.uk/images/site-logos/oxford-logo) [![UKRI EPLS](https://live.staticflickr.com/65535/49609556572_3e21f7851d_b.jpg)]()
+![image](https://user-images.githubusercontent.com/47821203/132416098-9350b418-3c32-4fbc-b7c9-ac79e3239089.png)
+
